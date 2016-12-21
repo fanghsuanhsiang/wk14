@@ -103,7 +103,7 @@ li{
 	float: left;
 	margin:0px;
 	padding: 0px;
-	margin-top: 55px;
+	margin-top: -185px;
 	margin-left: 44px;
 	font-size: 18px;
 }
@@ -112,6 +112,7 @@ li{
 	width:297px;
 	height:297px;
 	margin-left: 15px;
+	float: right;
 }
 .pic_3{
 	box-sizing: border-box;
@@ -134,7 +135,7 @@ li{
 	float: left;
 	margin:0px;
 	padding: 0px;
-	margin-top: 90px;
+	margin-top: -190px;
 	margin-left: 10px;
 	font-size: 18px;
 }
